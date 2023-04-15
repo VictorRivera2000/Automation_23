@@ -28,4 +28,4 @@ public class T2_Google extends ReusableAnnotations {
         logger.log(LogStatus.INFO,"Search number for cricket: " + arrayResult[1]);
     }//end of test 2
 
-}
+}//end of class
